@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Carlos!
 
-Here you will find a summary of some of the projects I've worked on over the years. Currently, I'm working on different projects in the areas of artificial intelligence, machine learning, computer vision, and data science. For more, you can check out my [website](https://csbanon.com). Also, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
+Here you will find a summary of some of the projects I've worked on over the years. Currently, I'm working on different projects in the areas of artificial intelligence, machine learning, computer vision, and data science. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
 
 
 
