@@ -4,6 +4,14 @@
 
 Here you will find a summary of some of the projects I've worked on over the years. Currently, I'm working on different projects in the areas of artificial intelligence, machine learning, computer vision, and data science. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
 
+#### Currently Working On:
+* Convolutional Autoencoder
+* Image Segmentation
+
+#### Recent Projects
+* Preferential Deletion Model with Changes in Existing Nodes (PDC Model)
+* You can also find my recent data science notebooks here.
+
 
 
 <!--
