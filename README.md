@@ -1,4 +1,4 @@
-![Banner](/banner.jpb)
+![Banner](https://github.com/csbanon/csbanon/blob/main/banner.jpg)
 
 ### Hi there 👋
 
