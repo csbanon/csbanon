@@ -4,13 +4,21 @@
 
 Here you will find a summary of some of the projects I've worked on over the years. Currently, I'm working on different projects in the areas of artificial intelligence, machine learning, computer vision, and data science. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
 
-#### Currently Working On:
+#### Current Projects
+I'm currently working on implementing various ML algorithms (such as $k$-means clustering and recommender systems) and a few exciting computer vision and NLP projects, including:
+* CNN Image Classification
 * Convolutional Autoencoder
+* Object Detection
 * Image Segmentation
+* NLP Chatbot
 
 #### Recent Projects
+Some of my recent projects include:
 * Preferential Deletion Model with Changes in Existing Nodes (PDC Model)
-* You can also find my recent data science notebooks here.
+* Hotel Management System
+* Branch Predictor
+* Cache Simulator
+You can also find my recent data science notebooks here.
 
 
 
