@@ -1,4 +1,4 @@
-![Banner](https://github.com/csbanon/csbanon/blob/main/banner.jpg)
+![Banner](https://github.com/csbanon/csbanon/blob/main/banner-v1.1.jpg)
 
 ### Hey there, I'm Carlos!
 
