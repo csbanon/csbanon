@@ -2,14 +2,6 @@
 
 Here you will find some of the projects I've been working on over the years. Currently, I'm working on different projects in the areas of AI, ML, Computer Vision, NLP, and Data Science. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
 
-#### Current Projects
-I'm currently working on implementing various classical ML algorithms. In addition, I have a few exciting Computer Vision and NLP deep learning projects in the works, including:
-* UCF AI Advising Chatbot
-* BERT Product Rating Predictor
-* Canny Edge Detector
-* Autoencoder
-* Object Detector
-
 #### Recent Projects
 Some of my recent projects include:
 * [MNIST Classifiers](https://github.com/csbanon/mnist-classifiers)
