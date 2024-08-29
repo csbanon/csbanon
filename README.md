@@ -1,6 +1,6 @@
-# Hey there, I'm Carlos!
+# Hey there, I'm Carlos.
 
-Here you will find some of the projects I've been working on over the years. Currently, I'm working on different projects in the areas of AI, ML, Computer Vision, NLP, and Data Science. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
+Here you will find some projects I've been working on throughout the years. Currently, I work as Senior AI/ML Software Engineer at USEncryption. Feel free to check out my [website](https://csbanon.com) and connect with me via [LinkedIn](https://www.linkedin.com/in/csbanon/) or [Twitter](https://twitter.com/csbanon)!
 
 You can also find my recent data science notebooks in my [Notebooks](https://github.com/csbanon/notebooks) repository.
 
