@@ -2,7 +2,7 @@
 
 I’m an AI/ML specialist with a passion for innovation in data science, computer vision, and natural language processing.
 
-I currently work as a Senior AI/ML Software Engineer at USEncryption, where I develop and promote advanced solutions for secure computation on encrypted data, enabling privacy-preserving AI/ML workflows without compromising confidentiality. Alongside my professional role, I’m also an avid photographer, blending technical expertise with creative expression.
+I currently work as a Senior AI/ML Software Engineer at [USEncryption](https://usencryption.com), where I develop and promote advanced solutions for secure computation on encrypted data, enabling privacy-preserving AI/ML workflows without compromising confidentiality. Alongside my professional role, I’m also an avid photographer, blending technical expertise with creative expression.
 
 I hold both a Master of Science and a Bachelor of Science in Computer Science from the University of Central Florida. During my time at UCF, I also worked as a research assistant at the Center for Research in Computer Vision (CRCV).
 
