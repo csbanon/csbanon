@@ -8,7 +8,7 @@ I hold both a Master of Science and a Bachelor of Science in Computer Science fr
 
 In addition to my technical work, I write about the intersection of AI/ML, data science, software engineering, technology, and photography on my [website](https://csbanon.com), where I share insights on how emerging technologies are shaping both industries.
 
-Here you will find some projects I've been working on throughout the years. You can also find my recent data science notebooks in my [Notebooks](https://github.com/csbanon/notebooks) repository.
+Here you will find some projects I've been working on throughout the years. You can also find my recent machine learning notebooks in the [Notebooks](https://github.com/csbanon/notebooks) repository.
 
 Thank you for stopping by. If you’d like to work together, or just say hello, feel free to add me on social media. You can also find a bit more about my professional experience on [LinkedIn](https://www.linkedin.com/in/csbanon/).
 
