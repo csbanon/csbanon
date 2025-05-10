@@ -10,9 +10,7 @@ At [USEncryption](https://usencryption.com), I lead the development of privacy-e
 
 I hold both an M.S. and B.S. in Computer Science from the University of Central Florida, where I conducted research in computer vision at the Center for Research in Computer Vision (CRCV).
 
-Alongside my professional role, I’m also an avid photographer and writer, blending technical expertise with creative expression. You can find my work on my website, where I share insights on how emerging technologies are shaping both industries.
-
-In addition to my technical work, I write about the intersection of AI/ML, data science, software engineering, technology, and photography on my [website](https://csbanon.com), where I share my photography and my experiences, insights, and knowledge across a variety of areas that I find fulfilling.
+Alongside my professional role, I’m also an avid photographer and writer, blending technical expertise with creative expression. You can find my work on my [website](https://csbanon.com), where I share my photography and my experiences, insights, and knowledge across a variety of areas that I find fulfilling.
 
 In this page you will find some projects I've been working on throughout the years. You can also find my recent machine learning notebooks in the [Notebooks](https://github.com/csbanon/notebooks) repository.
 
