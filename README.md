@@ -6,7 +6,7 @@ Professionally, I’m a senior AI/ML engineer and data scientist with a passion 
 
 I’m particularly drawn to emerging AI technologies and enjoy working on complex problems where data science, natural language processing, and computer vision intersect.
 
-At [USEncryption](https://usencryption.com), I lead the development of privacy-enhancing technologies (PETs) that enable training and inference on encrypted data. I spearheaded the creation of a Python library that allows data scientists to train machine learning models directly on encrypted data, combining ease of use with advanced cryptographic methods, and deliver solution demos to partners across the healthcare, finance, and government sectors around the world. Alongside my professional role, I’m also an avid photographer, blending technical expertise with creative expression.
+At [USEncryption](https://usencryption.com), I lead the development of privacy-enhancing technologies (PETs) that enable training and inference on encrypted data. I spearheaded the creation of a Python library that allows data scientists to train machine learning models directly on encrypted data, combining ease of use with advanced cryptographic methods, and deliver solution demos to partners across the healthcare, finance, and government sectors around the world.
 
 I hold both an M.S. and B.S. in Computer Science from the University of Central Florida, where I conducted research in computer vision at the Center for Research in Computer Vision (CRCV).
 
